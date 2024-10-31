@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Techie entrepreneur,<br>  Goal 2025 : DevOps -> MLOps -> LLMOps -AI Ops.
+I'm a Techie entrepreneur,<br>DevOps -> MLOps -> LLMOps -> <b>AI Ops.<b>
 
 
 ## 🌐 Socials:
